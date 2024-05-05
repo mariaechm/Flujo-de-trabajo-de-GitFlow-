@@ -12,7 +12,7 @@ print("-------------------------------------------------------------------------
 x = float(input("Ingrese la coordenada x de un punto en la circunferencia (x): "))
 y = float(input("Ingrese la coordenada y de un punto en la circunferencia (y): "))
 print("---------------------------------------------------------------------------")
-
+print("Hola mundo")
 # Calcula el radio
 radio = math.sqrt((x - h)**2 + (y - k)**2)
 
