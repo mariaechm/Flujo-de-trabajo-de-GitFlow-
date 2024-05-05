@@ -7,7 +7,7 @@ print("-------------------------------------------------------------------------
 h = float(input("Ingrese la coordenada x del centro (h): "))
 k = float(input("Ingrese la coordenada y del centro (k): "))
 print("---------------------------------------------------------------------------")
-
+print("release")
 # Coordenadas de un punto en la circunferencia (x, y)
 x = float(input("Ingrese la coordenada x de un punto en la circunferencia (x): "))
 y = float(input("Ingrese la coordenada y de un punto en la circunferencia (y): "))
